@@ -23,6 +23,14 @@ If you don't have python, there are some alternatives but are missing alot of fe
 
 1. C-Version.ly.c
 2. c++Version.zx.cpp
+3. JavaVersion00.jp.java
+
+
+But the java one does work if you have the required libaries.
+
+Java Version: JavaVersion00.jp.java
+
+
 
 
 --------------------------------------------------------------------------
