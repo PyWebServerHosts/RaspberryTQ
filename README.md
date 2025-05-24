@@ -19,6 +19,12 @@ Raspberry PI Pico 2 W
 Any Other Model that supports Blinking and stuff.
 
 
+If you don't have python, there are some alternatives but are missing alot of features.
+
+1. C-Version.ly.c
+2. c++Version.zx.cpp
+
+
 --------------------------------------------------------------------------
 
 Feel Free To Submit a Pull Request!
