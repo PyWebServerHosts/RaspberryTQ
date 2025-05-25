@@ -24,11 +24,14 @@ If you don't have python, there are some alternatives but are missing alot of fe
 1. C-Version.ly.c
 2. c++Version.zx.cpp
 3. JavaVersion00.jp.java
+4. motionkotlin.qp.kt
 
 
-But the java one does work if you have the required libaries.
+But the java one and the kotlin one does work if you have the required libaries.
 
 Java Version: JavaVersion00.jp.java
+
+Kotlin Version: motionkotlin.qp.kt
 
 
 
